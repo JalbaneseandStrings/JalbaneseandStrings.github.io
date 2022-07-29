@@ -33,3 +33,5 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+formspree_form_path: https://formspree.io/f/xjvzbgbe
