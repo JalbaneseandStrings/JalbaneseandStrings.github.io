@@ -1,0 +1,34 @@
+# Site settings
+title: JalbaneseandStrings
+email: jake.albanese101@gmail.com
+description: "Jalbaneseandstrings is a one stop stick shop. We have the experience and skills to keep your sticks fresh on the field. We bring the game to everyone through innovation and advancement of gear."
+
+
+# Team names, titles and social links
+people:
+- name: Jacob Albanese
+  pic: 1
+  position: President and Lead Designer of JalbaneseandStrings
+
+# social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: https://www.instagram.com/jalbaneseandstrings/
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
