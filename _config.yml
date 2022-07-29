@@ -8,14 +8,15 @@ description: "Jalbaneseandstrings is a one stop stick shop. We have the experien
 people:
 - name: Jacob Albanese
   pic: 1
-  position: Lead Designerceo of JalbaneseandStrings
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: President and Lead Designer of JalbaneseandStrings
+
+# social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
