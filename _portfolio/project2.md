@@ -5,8 +5,8 @@ image: /assets/img/portfolio/03-thumbnail.jpg
 #alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+#  title: Explore
+#  subtitle: Graphic Design
   thumbnail: /assets/img/portfolio/03-thumbnail.jpg
 ---
 
