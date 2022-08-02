@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "Jacob Albanese"
         role: "President and Lead Designer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/2.jpeg
         social:
  #         - url: https://twitter.com
   #          icon: fab fa-twitter
