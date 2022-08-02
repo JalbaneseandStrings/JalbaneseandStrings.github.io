@@ -14,13 +14,12 @@
 theme: jekyll-agency
 
 url    : "https://JalbaneseandStrings.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : JalbaneseandStrings
-email: jalbaneseandstrings@gmail.com
+email      : jalbaneseandstrings@gmail.com
 description: "Jalbaneseandstrings is a one stop stick shop. We have the experience and skills to keep your sticks fresh on the field. We bring the game to everyone through innovation and advancement of gear."
-
-
+author     : Jacob Albanese
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
@@ -37,4 +36,5 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
- formspree_form_path: "f/xjvzbgbe"
+# formspree_form_path: "f/xjvzbgbe"
+
