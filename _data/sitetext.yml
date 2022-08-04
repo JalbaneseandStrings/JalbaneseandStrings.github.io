@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Lacrosse Head Dyeing"
         desc: "You ship me your head and I take care of the rest. Once you ship or bring your Lacrosse head to Jalbanese and strings I will take great care of it and will do a great job. I take great precautoins dyeing and string your lacrosse heads."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-solid fa-lacrosse-stick
       - title: "Premium Custom Lacrosse Head Stringing"
         desc: "Jalbaneseandstrings will string your Lacrosse Head custom to your game and needs on the field. I string our sticks for your top performence."
-        icon: fas fa-solid fa-lacrosse-stick
+        icon: fa-solid fa-lacrosse-stick
       - title: "Lacrosse Stick Consulting"
         desc: "My Lacrosse stick Consulting is top of the line I will find the stick just for your needs on the field to be consitent and to make you play the best."
-        icon: fab fa-markdown
+        icon: fa-solid fa-lacrosse-stick
 
   portfolio:
     title: "Portfolio"
